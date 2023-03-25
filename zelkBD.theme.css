@@ -174,3 +174,15 @@
     color: #bde6fb;
     background-color: var(--background-modifier-hover);
 }
+
+.modeSelected-3DmyhH , .modeSelected-3DmyhH:hover .name-28HaxV, .modeUnread-3Cxepe .name-28HaxV, .modeUnread-3Cxepe:hover .name-28HaxV, .notInteractive-2tFrlE.modeConnected-NrO4cP .name-28HaxV, .notInteractive-2tFrlE.modeSelected-3DmyhH .name-28HaxV {
+    color: #bde6fb;
+    font-weight: var(--font-weight-semibold-1x-light-theme,500);
+}
+
+.modeUnread-3Cxepe .iconContainer-21RCa3 {
+    background-color: #bde6fb;
+    border-radius: 100px;
+    padding: 3px;
+    margin: 0 6px 0 -4px;
+}
