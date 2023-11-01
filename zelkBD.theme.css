@@ -129,7 +129,7 @@
   --text-muted: #8495a7;
   --text-link: #15a6f0;
   --interactive-selected: var(--background-primary);
-  --interactive-active: #272727;
+  --interactive-active: #bde6fb;
   --interactive-normal: var(--text-normal);
   --interactive-muted: var(--text-muted);
   --channels-default: var(--text-normal);
